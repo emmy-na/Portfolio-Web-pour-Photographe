@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "titre": "Portraits Urbains ",
+      "description": "Livres illustrés de portraits urbains contemporains.",
+      "imageUrl": "https://www.criteres-editions.com/678-thickbox_default/portraits-urbains-de-visage-en-visage.jpg"
+    },
+    {
+      "id": "2",
+      "titre": "Portraits Urbains De visage en visage",
+      "description": "Richement illustré par des oeuvres contemporaines in situ présentes aux quatre coins de la planète, ce beau livre thématique réunit une cinquantaine d'artistes urbains ayant travaillé sur l'art du portrait. ",
+      "imageUrl": "https://www.criteres-editions.com/673-large_default/portraits-urbains-de-visage-en-visage.jpg"
+    },
+    {
+      "id": "3",
+      "titre": "Outdoors Wedding",
+      "description": "Et préparez la scène pour votre cérémonie en plein air avec une arche qui correspond à votre style et à votre thème. Vous pouvez créer une arche de fleurs DIY à partir de fleurs réelles ou artificielles, fabriquer une arche en bois rustique, ou en faire construire une à partir d'autres matériaux !",
+      "imageUrl": "https://cdn.goodgallery.com/2d55f5b0-c06c-4345-88fe-578d2b52007c/r/2560/21qktr5b/gorgeous-outdoor-wedding-ceremony-setting.jpg"
+    },
+    {
+      "id": 4,
+      "titre": "Modern Architecture",
+      "description": "L'architecture moderne, ou architecture moderniste, est une architecture définie par l'utilisation de technologies de construction innovantes et nouvelles, notamment l'utilisation de l'acier, du béton armé et du verre. L'idée centrale de l'architecture moderne est que la forme doit suivre la fonction et embrasser le minimalisme.",
+      "imageUrl": "https://www.zaha-hadid.com/wp-content/uploads/2019/12/1250_nurag_rend_02.jpg"
+    }
+  ]
+}
